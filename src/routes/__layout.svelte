@@ -3,7 +3,7 @@
 </script>
 
 <Navbar color="dark" dark expand="md">
-  <NavbarBrand href="/">Sueqkjs</NavbarBrand>
+  <NavbarBrand href="/">nazoge</NavbarBrand>
   <Nav class="ms-auto" navbar>
     <NavItem>
       <NavLink href="/about">About</NavLink>

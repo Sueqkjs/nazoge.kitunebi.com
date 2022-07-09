@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-  <title>Sueqkjs</title>
-  <meta name="description" content="Sueqkjsのへや (404)" />
+  <title>nazoge</title>
+  <meta name="description" content="nazogeのへや (404)" />
 </svelte:head>
 
 <Row>

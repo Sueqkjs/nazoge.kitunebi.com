@@ -27,7 +27,7 @@ export async function get({ params, platform }: { params: Record<string, string>
   let res = await apiRequest({
     apiKey: platform.env.MICROCMS_API_KEY,
     domain: platform.env.DOMAIN,
-    endpoint: "articles",
+    endpoint: "nazo",
     contentId: isList ? void 0 : params.id
   });
 

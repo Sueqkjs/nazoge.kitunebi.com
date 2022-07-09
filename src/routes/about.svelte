@@ -3,17 +3,17 @@
 </script>
 
 <svelte:head>
-  <title>Sueqkjs - About</title>
-  <meta name="description" content="Sueqkjsのへや" />
+  <title>nazoge - About</title>
+  <meta name="description" content="nazogeのへや" />
 </svelte:head>
 
 <Row>
   <Col>
     <div>
-      <h1>Sueqkjs</h1>
-      <p>過激な思想や行動のない一般人です。SNS類は存在しません。</p>
-      <p>このサイトの<a href="https://github.com/Sueqkjs/sueqk.dev">Source Code</a>らしい。</p>
-      <a href="https://github.com/Sueqkjs">GitHub</a>
+      <h1>nazoge</h1>
+      <p>ケモナーだ道を開けろ</p>
+      <p>このサイトの<a href="https://github.com/Sueqkjs/nazoge.kitunebi.com">Source Code</a>らしい。</p>
+      <a href="https://github.com/nazoge">GitHub</a>
     </div>
   </Col>
 </Row>

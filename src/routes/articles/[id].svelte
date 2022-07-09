@@ -16,8 +16,8 @@
 </script>
 
 <svelte:head>
-  <title>{article.title} - Sueqkjs</title>
-  <meta name="description" content="SueqkjsのBlog" />
+  <title>{article.title} - nazoge</title>
+  <meta name="description" content="nazogeのBlog" />
 </svelte:head>
 
 <Row>

@@ -13,13 +13,13 @@
 </script>
 
 <svelte:head>
-  <title>Sueqkjs - Blog</title>
-  <meta name="description" content="SueqkjsのBlog" />
+  <title>nazoge - Blog</title>
+  <meta name="description" content="nazogeのBlog" />
 </svelte:head>
 
 <Row>
   <Col>
-    <h1>Sueqkjsのブログ</h1>
+    <h1>nazogeのブログ</h1>
     <hr>
     {#each articles as article}
       <Card color="dark">
